@@ -45,3 +45,17 @@ body {
 .content h2 {
   margin-top: 60px;
 }
+
+.contact-info {
+  position: absolute;
+  text-align: le;
+  top: 400px;
+  right: auto;
+  color: #F8DC00;
+  font-weight: bold;
+  left: 35px;
+}
+
+.contact-info p:first-child {
+  color: #FFF;
+}
